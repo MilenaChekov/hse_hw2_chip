@@ -18,6 +18,12 @@
 
 <img width="626" alt="Снимок экрана 2022-03-10 в 20 17 25" src="https://user-images.githubusercontent.com/60537367/157718718-54d78a11-7062-4756-ada3-d080996896be.png">
 
+[fjz_2.pdf](https://github.com/MilenaChekov/hse_hw2_chip/files/8226345/fjz_2.pdf)
+
 <img width="713" alt="Снимок экрана 2022-03-10 в 20 17 41" src="https://user-images.githubusercontent.com/60537367/157718768-22917bbb-f4bd-429d-8bc9-8709b5dc4bc2.png">
 
+[fjy_2.pdf](https://github.com/MilenaChekov/hse_hw2_chip/files/8226348/fjy_2.pdf)
+
 ![result_1](https://user-images.githubusercontent.com/60537367/157724514-98af8cf0-4259-4a5c-b824-4bd84b3c4768.png)
+
+На H3K4Me3 похоже
