@@ -28,4 +28,6 @@
 
 ![result_1](https://user-images.githubusercontent.com/60537367/157724514-98af8cf0-4259-4a5c-b824-4bd84b3c4768.png)
 
+![result_2](https://user-images.githubusercontent.com/60537367/157744369-43efccd5-30a5-4fdc-b2db-18f010414d66.png)
+
 На H3K4Me3 похоже
